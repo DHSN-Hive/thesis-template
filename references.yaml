@@ -1,0 +1,6 @@
+ordDoc:
+  type: web
+  author: Python Software Foundation
+  title: Built-in Functions
+  date: 2025
+  url: { value: https://docs.python.org/3.4/library/functions.html#ord, date: 2025-03-28 }
