@@ -9,6 +9,7 @@
 == Quellenverzeichnis
 
 #bibliography("references.bib", style: "ieee", title: none)
+//#bibliography("references.yaml", style: "ieee", title: none)
 
 #pagebreak()
 
